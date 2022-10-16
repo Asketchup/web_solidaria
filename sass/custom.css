@@ -3,7 +3,7 @@ img {
   height: auto;
 }
 
-h2, .h2, h3 + p, .h3 + p {
+.sang, h3 + p, .h3 + p {
   text-indent: 1rem;
 }
 
